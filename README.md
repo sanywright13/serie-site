@@ -19,5 +19,5 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd [project-folder]
+   git clone https://github.com/sanywright13/serie-site/edit/)https://github.com/sanywright13/serie-site/
+   cd serie-site
